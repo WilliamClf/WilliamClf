@@ -19,6 +19,6 @@
 </div>
 
 ##
-![Snake animation](https://github.com/WilliamClf)
+![Snake animation](WilliamClf)
 
 
