@@ -19,7 +19,7 @@
 </div>
 
 ##
-![snake gif](https://github.com/WilliamClf)
+
 
 
 
