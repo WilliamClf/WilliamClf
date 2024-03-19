@@ -6,7 +6,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-J" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  
+  <img align="center" alt="Will-C" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 </div>
 
 ##
