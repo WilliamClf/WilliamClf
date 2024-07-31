@@ -18,6 +18,7 @@ Aqui você encontrará uma variedade de projetos nos quais estou trabalhando ou 
   <img align="center" alt="Will-C" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Will-C" height="50" width="50"src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png">
   <img align="center" alt="Will-C" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg">
+  <img align="center" alt="Will-C" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg">
 </div>
 
 ##
