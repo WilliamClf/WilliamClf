@@ -1,6 +1,6 @@
 ### Olá!
 
--  Desenvolvedor Trainee Delphi
+-  Desenvolvedor Junior Delphi
 -  Aprendizado em Java e POO
 -  Aprendizado em C
 
