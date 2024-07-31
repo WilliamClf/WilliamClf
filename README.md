@@ -14,9 +14,9 @@ Aqui você encontrará uma variedade de projetos nos quais estou trabalhando ou 
 - **Projetos em C**: Exercícios e aplicações desenvolvidas durante meu aprendizado em C.(Aprendizado de cursos que fiz).
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Will-J" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="center" alt="Will-C" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Will-C" height="50" width="60"src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png">
+  <img align="center" alt="Will-J" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+  <img align="center" alt="Will-C" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Will-C" height="50" width="50"src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png">
 </div>
 
 ##
