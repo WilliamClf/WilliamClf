@@ -1,8 +1,17 @@
 ### Olá!
 
--  Desenvolvedor Junior Delphi
--  Aprendizado em Java e POO
--  Aprendizado em C
+# Bem-vindo ao meu GitHub!
+
+👋  Eu sou um estudante de **Bacharelado em Sistemas de Informação** na **Universidade Mater Dei** e atualmente estou no quarto período do curso. 
+
+🌱 Além disso, sou **Desenvolvedor Júnior em Delphi** no **Grupo Limber Software**.
+
+## Projetos
+
+Aqui você encontrará uma variedade de projetos nos quais estou trabalhando ou já concluí, utilizando diversas tecnologias. Alguns dos meus repositórios incluem:
+
+- **Projetos em Java**: Exemplos de programação orientada a objetos e outras práticas em Java.(Aprendizado da faculdade e de cursos que fiz).
+- **Projetos em C**: Exercícios e aplicações desenvolvidas durante meu aprendizado em C.(Aprendizado de cursos que fiz).
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-J" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
