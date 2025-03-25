@@ -2,7 +2,7 @@
 
 # Bem-vindo ao meu GitHub!
 
-👋  Eu sou um estudante de **Bacharelado em Sistemas de Informação** na **Universidade Mater Dei** e atualmente estou no quarto período do curso. 
+👋  Eu sou um estudante de **Bacharelado em Sistemas de Informação** na **Universidade Mater Dei** e atualmente estou no quinto período do curso. 
 
 🌱 Além disso, sou **Desenvolvedor Júnior em Delphi** no **Grupo Limber Software**.
 
