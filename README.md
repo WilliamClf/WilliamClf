@@ -2,7 +2,7 @@
 
 # Bem-vindo ao meu GitHub!
 
-👋  Eu sou um estudante de **Bacharelado em Sistemas de Informação** na **Universidade Mater Dei** e atualmente estou no quinto período do curso. 
+👋  Eu sou um estudante de **Bacharelado em Sistemas de Informação** na **Universidade Mater Dei** e atualmente estou no sexto período do curso. 
 
 🌱 Além disso, sou **Desenvolvedor Júnior em Delphi** no **Grupo Limber Software**.
 
@@ -15,9 +15,8 @@ Aqui você encontrará uma variedade de projetos nos quais estou trabalhando ou 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-J" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
-  <img align="center" alt="Will-C" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Will-C" height="50" width="50"src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png">
-  <img align="center" alt="Will-C" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg">
+  <img align="center" alt="Will-D" height="50" width="50"src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png">
+  <img align="center" alt="Will-G" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg">
 </div>
 
 ##
